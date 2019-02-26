@@ -113,6 +113,7 @@ export const authorizeApplication = ( auth ) => ( { authActions } ) => {
   }
   let form = {
     grant_type: "client_credentials",
+    audience:"localserver8080",
     scope: scopes.join(scopeSeparator)
   }
 
