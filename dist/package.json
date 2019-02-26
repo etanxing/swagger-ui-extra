@@ -1,0 +1,15 @@
+{
+  "name": "swagger-ui-dist-extra",
+  "license": "Apache-2.0",
+  "version": "1.0.0",
+  "description": "swagger-ui with audience",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "bundleDependencies": false,
+  "devDependencies": {},
+  "dependencies": {},
+  "deprecated": false
+}
